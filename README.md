@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prasanth.
 - 👀 I’m interested in the field of Development.
-- 🌱 I’m currently learning Python Framework Django.
+- 🌱 I’m currently learning Python Framework -> Django.
 - 💞️ I’m looking to collaborate on Full Stack Development.
 - 📫 Reach me at prasanthg13102002@gmail.com
 
